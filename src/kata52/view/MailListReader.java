@@ -1,11 +1,11 @@
 
-package kata4.view;
+package kata52.view;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.regex.Pattern;
-import kata4.model.Mail;
+import kata52.model.Mail;
 
 public class MailListReader{
     private Loader loader;

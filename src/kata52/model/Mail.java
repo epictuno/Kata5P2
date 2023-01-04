@@ -1,4 +1,4 @@
-package kata4.model;
+package kata52.model;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
